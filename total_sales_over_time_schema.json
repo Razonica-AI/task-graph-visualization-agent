@@ -1,0 +1,5 @@
+{"total_sales_over_time.json": {"columns": [
+    {"name": "month", "dtype": "datetime64[ns]"},
+    {"name": "total_sales", "dtype": "float64"},
+    {"name": "order_count", "dtype": "int64"}
+]}}

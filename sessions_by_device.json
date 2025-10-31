@@ -1,0 +1,11 @@
+{
+    "answer": "Mobile accounts for 59% of sessions.",
+    "metrics": {
+        "device_distribution": [
+            {"device_type": "Desktop", "session_count": 15420, "percentage": 0.31},
+            {"device_type": "Mobile", "session_count": 28934, "percentage": 0.59},
+            {"device_type": "Tablet", "session_count": 3421, "percentage": 0.07},
+            {"device_type": "Other", "session_count": 892, "percentage": 0.03}
+        ]
+    }
+}

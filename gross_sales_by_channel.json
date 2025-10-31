@@ -1,0 +1,10 @@
+{
+    "answer": "Online channel leads with $125K revenue.",
+    "metrics": {
+        "channel_breakdown": [
+            {"channel": "Online", "gross_revenue": 125000},
+            {"channel": "Retail", "gross_revenue": 89000},
+            {"channel": "Wholesale", "gross_revenue": 45000}
+        ]
+    }
+}
