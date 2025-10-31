@@ -1,0 +1,4 @@
+{"gross_sales_by_channel.json": {"columns": [
+    {"name": "channel", "dtype": "object"},
+    {"name": "gross_revenue", "dtype": "float64"}
+]}}

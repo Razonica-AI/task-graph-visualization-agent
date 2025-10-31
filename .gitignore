@@ -137,6 +137,7 @@ celerybeat.pid
 # Environments
 .env
 .envrc
+.env.local
 .venv
 env/
 venv/
@@ -205,3 +206,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific
+agent_execution.log
+
+# Output files (optional - remove if you want to track these)
+# output/
+# *.html

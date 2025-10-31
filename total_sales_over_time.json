@@ -1,0 +1,19 @@
+{
+    "answer": "Sales grew from $45K to $120K over 12 months.",
+    "metrics": {
+        "monthly_data": [
+            {"month": "2024-01", "total_sales": 45000, "order_count": 245},
+            {"month": "2024-02", "total_sales": 52000, "order_count": 289},
+            {"month": "2024-03", "total_sales": 68000, "order_count": 312},
+            {"month": "2024-04", "total_sales": 74000, "order_count": 328},
+            {"month": "2024-05", "total_sales": 79000, "order_count": 345},
+            {"month": "2024-06", "total_sales": 85000, "order_count": 361},
+            {"month": "2024-07", "total_sales": 91000, "order_count": 384},
+            {"month": "2024-08", "total_sales": 97000, "order_count": 401},
+            {"month": "2024-09", "total_sales": 103000, "order_count": 423},
+            {"month": "2024-10", "total_sales": 110000, "order_count": 447},
+            {"month": "2024-11", "total_sales": 116000, "order_count": 465},
+            {"month": "2024-12", "total_sales": 120000, "order_count": 488}
+        ]
+    }
+}

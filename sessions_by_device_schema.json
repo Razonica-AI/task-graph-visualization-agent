@@ -1,0 +1,4 @@
+{"sessions_by_device.json": {"columns": [
+    {"name": "device_type", "dtype": "object"},
+    {"name": "session_count", "dtype": "int64"}
+]}}
